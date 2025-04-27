@@ -1,0 +1,8 @@
+{
+  "serverName": "FightCraft",
+  "serverIP": "minecraft3027.omgserv.com:10033",
+  "serverLogo": "https://i.imgur.com/TON_LOGO.png",
+  "onlineColor": "#00ff00",
+  "offlineColor": "#ff0000",
+  "refreshDelay": 5000
+}
